@@ -1,0 +1,1 @@
+print("Zdrauvstvuitie dorogie druzyia")
