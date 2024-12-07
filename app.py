@@ -1,1 +1,1 @@
-print("Zdrauvstvuitie dorogie druzyia")
+print("Zdrauvstvuitie dorogie druziya segodnya yia Aleksander Syokolyow")
